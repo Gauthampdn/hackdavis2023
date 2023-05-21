@@ -11040,7 +11040,8 @@ p {
 }
 
 .mb-6 {
-  margin-bottom: 65px !important;
+  margin-bottom: 20px !important;
+  font-weight: bold;
 }
 
 .mb-4 {
